@@ -3,17 +3,16 @@
 
 :root {
   /* Design Tokens from Spec */
-  --paper: #EDE6D3;
-  --paper-2: #E4DAC1;
-  --ink: #262220;
-  --ink-soft: #5B5344;
-  --indigo: #2B3A67;
-  --stamp-red: #A63725;
-  --stamp-green: #3F6B4D;
-  --rule: #C9BC9C;
-  --rule-soft: #D9CFB2;
+  --paper: #262220;
+  --paper-2: #342f2d;
+  --ink: #ede6d3;
+  --ink-soft: #c9bc9c;
+  --indigo: #5b72c2;
+  --stamp-red: #d25854;
+  --stamp-green: #6ec087;
+  --rule: #4a4340;
+  --rule-soft: #3a3432;
 }
-
 /* Global Reset & Base Styles */
 * {
   box-sizing: border-box;
